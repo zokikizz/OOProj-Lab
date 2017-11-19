@@ -1,0 +1,5 @@
+Ovaj projekat Osobe ne radi nesto zbog neke reference 
+i problem je opste nepoznat. 
+Samo je od jednom odkazao pred lab vezbu.
+Isti sadrzaj se nalazi i u Osobe1 samo sto ovaj projekat radi 
+i on je koriscen za rad aplikacije.
